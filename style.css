@@ -1,0 +1,150 @@
+.nav1{
+	margin-left: 103px;
+}
+.img1{
+	width: 197px;
+	height: 60px;
+	margin-left: 97px;
+	margin-top: 20px;
+}
+.div1{
+	display: flex;
+	align-items: center;
+}
+.li1 {
+	font-size: 24px;
+	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 35px;
+}
+.ul1{
+	display: flex;
+}
+.div2{
+	margin-left: 155px;
+}
+.img2{
+	padding-left: 20px;
+	height: 30px;
+}
+.section1{
+	background-color: #BDCCD4
+}
+.grey-div{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 90px;
+}
+.lil-div{
+	margin-left: 98px;
+}
+.lil-div-last{
+	margin-right: 98px;
+}
+.blue-div{
+	background-color: #363E97;
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 90px;
+	margin-top: 200px;
+}
+.white-div{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 320px;
+	margin-left: 98px;
+	margin-top: 90px;
+}
+.white-div1{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 320px;
+	margin-right: 98px;
+	margin-top: 90px;
+}
+.p1{
+	margin-left: 134px;
+	margin-top: 157px;
+}
+.p-1{
+	margin-top: 14px;
+	margin-left: 14px;
+}
+.divs{
+    display: flex;
+    justify-content: space-between;
+    background:#E6E6E6;
+
+}
+.divs-1{
+	margin-left: 98px;
+	display: flex;
+	align-items: center;
+	width: 570px;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	background:white;
+	height: 80px;
+	margin-top: 88px;
+}
+.divs-2{
+	margin-right: 98px;
+	display: flex;
+	align-items: center;
+	width: 570px;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	background:white;
+	height: 80px;
+	margin-top: 88px;
+}
+.h2h2{
+	margin-bottom: 160px;
+	color: #3D58A6;
+}
+.hand{
+	margin-top: 40px;
+}
+.text{
+	margin-left: 60px;
+}
+.readmore{
+	font-size: 14px;
+	color: #3D58A6;
+	margin-top: 150px;
+}
+.computer{
+	margin-left: 98px;
+}
+.class{
+	margin-top: 100px;
+}
+.h2h2h2{
+	margin-top: 50px;
+	margin-left: 100px;
+	background-color:#BDCCD4;
+	height: 90px;
+	padding-top: 50px;
+}
+.lab{
+	color: blue;
+	margin-top: 150px;
+	margin-left: 50px;
+}
+.contact{
+	background:red;
+	height: 60px;
+	padding-top: 30px;
+	color: white;
+}
+.class-1{
+	margin-top: 130px;
+	display: flex;
+	justify-content: space-between;
+}
+.g11{
+	margin-left: 120px;
+}
+.g12{
+	margin-right: 120px;
+}
